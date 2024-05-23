@@ -1,2 +1,1 @@
-# laptrinhgem
- 
+gold miner gem
